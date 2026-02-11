@@ -7,8 +7,11 @@
 **Dataset Features**
 
 ✔️ Avg. Session Length
+
 ✔️ Time on App
+
 ✔️ Time on Website
+
 ✔️ Length of Membership
 
 **Objective**
@@ -18,7 +21,9 @@
 **Key Insights**
 
 ✔️ Length of Membership is the most significant factor affecting customer spending.
+
 ✔️ Time on App has a strong positive impact on spending.
+
 ✔️ Time on Website shows very little correlation with spending.
 
 **Conclusion**
